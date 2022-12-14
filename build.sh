@@ -1,0 +1,1 @@
+g++ main.cpp `sdl2-config --cflags --libs`
